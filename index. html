@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -95,7 +93,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="IMG_20220815_173056_844_864272291181662.webp" alt="Your Profile Picture" class="profile-picture">
+            <img src="IMG-20231027-WA0013.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1>ruthra</h1>
             <p>Passionate on Full Stack Development</p>
         </div>
